@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SaveSpot</string>
+    <string name="no_spot_yet">No Spot has been added yet. Click on the + icon to add one now!</string>
+    <string name="img_content_desc">Image</string>
+    <string name="google_maps_api_key">AIzaSyBjAV-vmzr7RMOtCrgwXQG4hm5s_QU6-Qs</string>
+</resources>
